@@ -1,0 +1,57 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~BalanceCar_20210328.PrjPcb|ReportField=ProjectFullPath~D:\Project\balance car\V2\Hardware\BalanceCar_20210328\BalanceCar_20210328.PrjPcb|ReportField=Title~Bill of Materials For Project [BalanceCar_20210328.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~162|ReportField=ReportTime~8:18:33 AM|ReportField=ReportDate~2/20/2025|ReportField=ReportDateTime~2/20/2025 8:18:33 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/20/2025|ReportField=CurrentTime~8:18:27 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Project\balance car\V2\Hardware\BalanceCar_20210328\1.Battery.SchDoc|ReportField=DocumentName~1.Battery.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~7/7/2021|ReportField=Organization~|ReportField=ProjectName~BalanceCar_20210328.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~BalanceCar_20210328.PrjPcb|ReportField=DataSourceFullPath~D:\Project\balance car\V2\Hardware\BalanceCar_20210328\BalanceCar_20210328.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|2.2u|Capacitor, 0603, SMD|C1, C36|CAP_0603_SMD|CAP_0603_SMD|2
+2|0.1u|Capacitor, 0603, SMD|C2, C3, C4, C6, C7, C8, C9, C11, C14, C16, C23, C24, C26, C27, C28, C31, C32, C33, C34, C35|CAP_0603_SMD|CAP_0603_SMD|20
+3|2.2n|Capacitor, 0603, SMD|C5, C17, C18|CAP_0603_SMD|CAP_0603_SMD|3
+4|47n|Capacitor, 0603, SMD|C10|CAP_0603_SMD|CAP_0603_SMD|1
+5|10u|贴片电容|C12, C25|C1206_L|C|2
+6|22u|贴片电容|C13, C15, C37, C38|C1812_L|C|4
+7|1u|Capacitor, 0603, SMD|C19, C39, C40, C41, C42, C43, C44, C45|CAP_0603_SMD|CAP_0603_SMD|8
+8|75p|Capacitor, 0603, SMD|C20|CAP_0603_SMD|CAP_0603_SMD|1
+9|22u|贴片电容|C21, C22|C1206_L|C|2
+10|22p|Capacitor, 0603, SMD|C29, C30|CAP_0603_SMD|CAP_0603_SMD|2
+11|PWR5.5x2.1_HP|DC Socket, 5.5x2.1, High-power|CN1|PWR5.5x2.1_HP|PWR5.5x2.1_HP|1
+12|1N4148|开关二极管|D1|SOD-323|1N4148|1
+13|SS24|肖特基二极管|D2, D3|SMB|SS24|2
+14|TVS|TVS通用|D4, D5|SMA|TVS|2
+15|35V 220uF|贴片电解电容|E1, E2|CE E(8*10.2)|CE_SMD|2
+16|35V 100uF|贴片电解电容|E3, E4, E5|CE D(6.3*7.7)|CE_SMD|3
+17|MSMD200-8V 2A|贴片保险丝|F1, F2|FU 1812|FU|2
+18|4.7u|一体成型电感|L1|L-SMD-0630|L-Molding Choke|1
+19|15uH|一体成型电感|L2|L-SMD-0630|L-Molding Choke|1
+20|红色|贴片LED|LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8|LED0603_Y|LED-SMD|8
+21|HDR5x2_2.54|Header, 10-Pin, 2-Row|P1|HDR5x2_2.54|HDR5x2_2.54|1
+22|HDR-1X6|6P接插件|P2, P3|XH2.54-WS-6P|Header 6|2
+23|SS8550|PNP SS8550, -25V -1.5A, SOT-23|Q1|TR_SOT-23|PNP SS8550|1
+24|SS8050|NPN SS8050, 25V 1.5A, SOT-23|Q2|TR_SOT-23|NPN SS8050|1
+25|BAT54S|Dual Schottky Diodes, SOT23|Q3, Q4, Q5, Q6, Q7|TR_SOT-23|BAT54S|5
+26|10K|Resistor, 0603, SMD|R1, R2, R3, R4, R13, R18, R20, R21, R22, R24, R31, R34, R35, R36, R38, R39, R40, R41, R42, R44, R46, R48, R50, R51, R52, R53|RES_0603_SMD|RES_0603_SMD|26
+27|1M2|Resistor, 0603, SMD|R5|RES_0603_SMD|RES_0603_SMD|1
+28|1K|Resistor, 0603, SMD|R6, R12, R27, R29, R30|RES_0603_SMD|RES_0603_SMD|5
+29|ntc|Resistor, 0603, SMD|R7|RES_0603_SMD|RES_0603_SMD|1
+30|2k|Resistor, 0603, SMD|R8, R9, R10, R11|RES_0603_SMD|RES_0603_SMD|4
+31|100|Resistor, 0603, SMD|R14|RES_0603_SMD|RES_0603_SMD|1
+32|10M|Resistor, 0603, SMD|R15|RES_0603_SMD|RES_0603_SMD|1
+33|0|Resistor, 1206, SMD|R16|RES_1206_SMD|RES_1206_SMD|1
+34|0.1|Resistor, 1206, SMD|R17|RES_1206_SMD|RES_1206_SMD|1
+35|750|Resistor, 0603, SMD|R19|RES_0603_SMD|RES_0603_SMD|1
+36|2.5k|Resistor, 0603, SMD|R23|RES_0603_SMD|RES_0603_SMD|1
+37|100k|Resistor, 0603, SMD|R25|RES_0603_SMD|RES_0603_SMD|1
+38|22k|Resistor, 0603, SMD|R26|RES_0603_SMD|RES_0603_SMD|1
+39|1M|Resistor, 0603, SMD|R28|RES_0603_SMD|RES_0603_SMD|1
+40|15k|Resistor, 0603, SMD|R32, R33|RES_0603_SMD|RES_0603_SMD|2
+41|22|Resistor, 0603, SMD|R37, R43, R45, R47, R49|RES_0603_SMD|RES_0603_SMD|5
+42|SS-12F23|1路波动开关|S1|SS-12F23|SSW-1P|1
+43|3x6x5|微动开关|SW1|SW SMD-3*6*4.3|SW-PB|1
+44|SW-2P|2路编码开关|SW2|SW1.27 SMD-2P|SW-2P|1
+45|TEST|测试点|TP1, TP2, TP3, TP4, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16|TEST 1.2|TEST|14
+46|TEST TP|测试环|TP5, TP6|TEST TP1.4_BK|TEST TP|2
+47|MPU-6050 QFN-24|Triple Axis Accelerometer and Gyro|U1|IC_QFN-24_4x4_NoExposedPad|MPU-6050 QFN24 4x4|1
+48|1096|Undefined or Miscellaneous|U2, U5, U6|1096|1096|3
+49|FS8205A TSSOP-8|Dual N-Channel Enhancement Mode Power MOSFET|U3|IC_TSSOP-8|FS8205A TSSOP-8|1
+50|PT6303|Integrated Circuit|U4|SOP50P490X110-10N|PT6303|1
+51|MP26123DR-LF-Z|Integrated Circuit|U7|QFN65P400X400X100-17N-D|MP26123DR-LF-Z|1
+52|TPS54202DDCR|Power Supply|U8|SOT95P280X110-6N|TPS54202DDCR|1
+53|STM32F401CCU6|Integrated Circuit|U9|QFN50P700X700X60-49N-D|STM32F401CCU6|1
+54|TB6612FNG_O,EL_|Integrated Circuit|U10|SOP65P760X160-24N|TB6612FNG_O,EL_|1
+55|WH-BLE103||U11|PCBComponent_1|WH-BLE103|1
+56|8M|4脚无源晶振|X1|OSC 3225-4P|XTAL-4P|1
