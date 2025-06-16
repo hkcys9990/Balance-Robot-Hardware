@@ -1,5 +1,6 @@
 # Balance Robot Hardware
 The hardware design of the balance robot, including PCB schematic and layout
+![image](https://github.com/user-attachments/assets/2baac360-61ce-486a-84f7-f0306064dccb)
 
 # Project: Balance Robot 
 1.Two wheels self balance robot
