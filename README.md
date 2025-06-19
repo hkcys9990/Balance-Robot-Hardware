@@ -13,6 +13,9 @@ The hardware design of the balance robot, including PCB schematic and layout
 
 5.Firmware Design (C language, bare-metal)
 
+# Demonstration
+https://www.youtube.com/watch?v=u6oU_3oZxdM
+
 # Hardware Structure
 ![image](https://github.com/user-attachments/assets/56e582bc-2032-436c-bdb0-fe9698ca58f3)
 
@@ -33,4 +36,4 @@ bottom layer
 ![image](https://github.com/user-attachments/assets/eb732a83-bf18-470e-8639-7bec172f6b2a)
 
 # Firmware 
-the firmware: 
+the firmware: https://github.com/hkcys9990/Balance-Robot-Firmware/tree/main
